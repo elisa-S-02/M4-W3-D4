@@ -1,3 +1,5 @@
+//per lo più mi sono fatta aiutare dai compagni e ho usato chat gpt, mi sto perdendo nell'insieme di informazioni e oltre a rimanere indietro sto facendo fatica ad afferrare gli argomenti
+
 const ogniUtente = (utente) => {
   main.innerHTML += `
         <div class="ms-3 card" style="width: 18rem;">
